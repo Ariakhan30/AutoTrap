@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author: Javier Saez Cerezo
+#Author: Cyphus
 #Fecha de inicio de Desarrollo 2 oct 2023
 
 import tkinter as tk
